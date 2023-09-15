@@ -1,0 +1,11 @@
+{
+  "development": {
+    "username": "root",
+    "password": "n62Y@V3",
+    "database": "testdb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+
+
